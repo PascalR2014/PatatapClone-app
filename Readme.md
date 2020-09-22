@@ -2,6 +2,8 @@
 
 Ceci est une copie d'un projet MIT nommer Patatap website et version application mobile, utilisant une bibliothèque javascript qui gère le son HoolerJs et PaperJs. 
 
+Vidéo du projet visible sur ma chaîne Youtube: https://www.youtube.com/watch?v=ThJfBzGGmW8
+
 Source cours Udemy/wdb colt/Steele libre adaptation. 
 
 ## Instructions
